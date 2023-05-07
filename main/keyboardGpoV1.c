@@ -215,7 +215,7 @@ void app_main(void)
     while (1)
     {
         TecladoGpo();
-        vTaskDelay(1);
+       // vTaskDelay(1);
     }
     
 
